@@ -1,4 +1,4 @@
-# Hand Digit Signs Classification
+# Hand Signs Digits Classification
 
 ## Description
 
